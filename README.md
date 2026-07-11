@@ -23,6 +23,7 @@ The repository consolidates the precinct modeling work associated with the Josh 
 
 ```text
 src/
+  geojson_precinct_features.py  recovered Michigan feature preparation
   similarity.py     demographic distance and nearest-neighbor logic
   precinct.py       precinct state and live-result adjustments
   forecast.py       aggregation, baselines, and forecast error
