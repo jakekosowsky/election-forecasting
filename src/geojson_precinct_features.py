@@ -1,8 +1,4 @@
-"""Prepare the Michigan precinct feature layer used by the needle model.
-
-This module reconstructs the GeoJSON preparation workflow referenced by the
-original `michigan-needle` development copy.
-"""
+"""Prepare Michigan precinct features for partial-return forecasting."""
 
 from pathlib import Path
 
